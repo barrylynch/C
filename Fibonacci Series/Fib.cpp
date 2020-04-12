@@ -8,5 +8,5 @@ int main()
   cout <<"Enter any number: ";
   cin >> number;
   result = pow(number, 0.5);
-  cout<<"\nSqure of "<<number<<" is: " << result << endl;
+  cout<<"\nSqure of "<<number<<" is: ii" << result << endl;
 }
